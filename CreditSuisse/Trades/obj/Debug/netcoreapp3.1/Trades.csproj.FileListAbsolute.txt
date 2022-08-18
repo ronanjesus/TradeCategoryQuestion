@@ -1,0 +1,14 @@
+D:\Clk\CreditSuisse\Trades\bin\Debug\netcoreapp3.1\Trades.exe
+D:\Clk\CreditSuisse\Trades\bin\Debug\netcoreapp3.1\Trades.deps.json
+D:\Clk\CreditSuisse\Trades\bin\Debug\netcoreapp3.1\Trades.runtimeconfig.json
+D:\Clk\CreditSuisse\Trades\bin\Debug\netcoreapp3.1\Trades.runtimeconfig.dev.json
+D:\Clk\CreditSuisse\Trades\bin\Debug\netcoreapp3.1\Trades.dll
+D:\Clk\CreditSuisse\Trades\bin\Debug\netcoreapp3.1\Trades.pdb
+D:\Clk\CreditSuisse\Trades\obj\Debug\netcoreapp3.1\Trades.csproj.AssemblyReference.cache
+D:\Clk\CreditSuisse\Trades\obj\Debug\netcoreapp3.1\Trades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clk\CreditSuisse\Trades\obj\Debug\netcoreapp3.1\Trades.AssemblyInfoInputs.cache
+D:\Clk\CreditSuisse\Trades\obj\Debug\netcoreapp3.1\Trades.AssemblyInfo.cs
+D:\Clk\CreditSuisse\Trades\obj\Debug\netcoreapp3.1\Trades.csproj.CoreCompileInputs.cache
+D:\Clk\CreditSuisse\Trades\obj\Debug\netcoreapp3.1\Trades.dll
+D:\Clk\CreditSuisse\Trades\obj\Debug\netcoreapp3.1\Trades.pdb
+D:\Clk\CreditSuisse\Trades\obj\Debug\netcoreapp3.1\Trades.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v+PcPsNYzLdHhaRqVrECWYEWOYCSAKe5OR5tv+/tox4L8INqHbToDaTMvAT/VlKVWU7iW60Pt/8gBt6B7xEuBA==",
+  "success": true,
+  "projectFilePath": "D:\\Clk\\CreditSuisse\\Trades\\Trades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronan Monteiro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
